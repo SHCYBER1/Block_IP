@@ -92,3 +92,9 @@
 *.welausystem.net
 *.wellsystemte.net
 *.withclier.com
+*.prodfindfeatures.com
+*.micrsoft-teams-download.com
+*.impresoralaser.pro
+*.whereverhomebe.com
+*.supfoundrysettlers.us
+*.retdirectyourman.eu
