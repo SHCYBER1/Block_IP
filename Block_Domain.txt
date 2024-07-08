@@ -98,3 +98,4 @@
 *.whereverhomebe.com
 *.supfoundrysettlers.us
 *.retdirectyourman.eu
+*.ru
