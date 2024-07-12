@@ -99,3 +99,5 @@
 *.supfoundrysettlers.us
 *.retdirectyourman.eu
 *.ru
+*.gost.needspeedup.shop
+*.mega.io
