@@ -107,3 +107,11 @@
 *.Angryipsca.com
 *.ec2-3-145-180-193.us-east-2.compute.amazonaws.com/
 *.ec2-3-145-172-86.us-east-2.compute.amazonaws.com
+*sombrat.com
+*gororama.com
+*softeruplive.com
+*altocloudzone.live
+*ciborkumari.xyz
+*myappearinc.com
+*parkerpublic.com
+*tumbleproperty.com
