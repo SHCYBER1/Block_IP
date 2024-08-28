@@ -130,3 +130,5 @@
 *beautyhabits.gr
 *avpvuurwerk.nl
 *1tvnews.af
+*.moe
+*.ngrok.io
