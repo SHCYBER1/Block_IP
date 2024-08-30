@@ -132,3 +132,4 @@
 *1tvnews.af
 *.moe
 *.ngrok.io
+*.samuelelena.co
