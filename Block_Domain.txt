@@ -133,3 +133,4 @@
 *.moe
 *.ngrok.io
 *.samuelelena.co
+*.deepseek.com
