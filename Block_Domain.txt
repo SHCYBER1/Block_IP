@@ -134,3 +134,4 @@
 *.ngrok.io
 *.samuelelena.co
 *.deepseek.com
+*.cpeciadogfoods.com
