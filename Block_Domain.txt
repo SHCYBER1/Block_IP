@@ -135,3 +135,5 @@
 *.samuelelena.co
 *.deepseek.com
 *.cpeciadogfoods.com
+HEP2Go.com
+*.HEP2Go.com
