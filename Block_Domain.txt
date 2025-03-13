@@ -138,3 +138,4 @@
 HEP2Go.com
 *.HEP2Go.com
 *.pdfgear.com
+pdfgear.com
