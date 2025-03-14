@@ -139,3 +139,5 @@ HEP2Go.com
 *.HEP2Go.com
 *.pdfgear.com
 pdfgear.com
+application.pdfskillsapp.com
+*pdfskillsapp.com
