@@ -141,3 +141,5 @@ HEP2Go.com
 pdfgear.com
 application.pdfskillsapp.com
 *pdfskillsapp.com
+monerominer.rocks
+*.rocks
