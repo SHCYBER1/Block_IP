@@ -193,3 +193,11 @@ monerominer.rocks
 *.qoppa.com
 *.apowersoft.com
 *.pdf-xchange.com
+*.pdfchef.com
+*.cutepdf.com
+*.iceni.com
+*.pdfcandy.com
+*.pdf.abbyy.com
+*.pdfbuddy.com
+*.pdf.easeus.com
+*.bullzip.com
