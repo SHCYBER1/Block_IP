@@ -154,3 +154,11 @@ monerominer.rocks
 *.mupdf.com
 *.okular.kde.org
 *.chatpdf.com
+*.simplepdf.eu
+*.pdf24.org
+*.xodo.com
+*.pdf.wondershare.com
+*.penly.net
+*.tools.pdf24.org
+*.ilovepdf.com
+*.wps.com
