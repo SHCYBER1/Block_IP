@@ -183,3 +183,5 @@ monerominer.rocks
 *.cz
 *.pdflabs.com
 *.sodapdf.com
+*.swftools.org
+*.soliddocuments.com
