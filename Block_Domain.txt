@@ -150,3 +150,7 @@ monerominer.rocks
 *.investintech.com
 *.pdf-xchange.eu
 *.pdffiller.pxf.io
+*.sumatrapdfreader.org
+*.mupdf.com
+*.okular.kde.org
+*.chatpdf.com
