@@ -162,3 +162,9 @@ monerominer.rocks
 *.tools.pdf24.org
 *.ilovepdf.com
 *.wps.com
+*.libreoffice.org
+*.inkscape.org
+*.evince.en.softonic.com
+*.pdfescape.com
+*.pdftool.org
+*.onlyoffice.com
