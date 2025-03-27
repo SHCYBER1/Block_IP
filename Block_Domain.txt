@@ -149,3 +149,4 @@ monerominer.rocks
 *.dochub.com
 *.investintech.com
 *.pdf-xchange.eu
+*.pdffiller.pxf.io
