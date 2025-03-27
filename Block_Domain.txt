@@ -185,3 +185,4 @@ monerominer.rocks
 *.sodapdf.com
 *.swftools.org
 *.soliddocuments.com
+*.scribus.net
