@@ -143,3 +143,9 @@ application.pdfskillsapp.com
 *pdfskillsapp.com
 monerominer.rocks
 *.rocks
+*.issuu.com
+*.slideshare.net
+*.foxit.com
+*.dochub.com
+*.investintech.com
+*.pdf-xchange.eu
