@@ -170,3 +170,7 @@ monerominer.rocks
 *.onlyoffice.com
 *.sejda.com
 *pwmt.org
+*.doc.qt.io
+*.opera.com
+*.wavebrowser.co
+*.goodreader.com
