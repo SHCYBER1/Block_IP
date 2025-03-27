@@ -168,3 +168,5 @@ monerominer.rocks
 *.pdfescape.com
 *.pdftool.org
 *.onlyoffice.com
+*.sejda.com
+*pwmt.org
