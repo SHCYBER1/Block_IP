@@ -174,3 +174,12 @@ monerominer.rocks
 *.opera.com
 *.wavebrowser.co
 *.goodreader.com
+*.readera.org
+*.smallpdf.com
+*.gimp.org
+*.karbonhq.com
+*.imagemagick.org
+*.pdfedit.cz
+*.cz
+*.pdflabs.com
+*.sodapdf.com
