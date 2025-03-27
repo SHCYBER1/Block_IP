@@ -186,3 +186,10 @@ monerominer.rocks
 *.swftools.org
 *.soliddocuments.com
 *.scribus.net
+*.pdfsam.org
+*.cube-soft.com
+*.gonitro.com
+*.code-industry.net
+*.qoppa.com
+*.apowersoft.com
+*.pdf-xchange.com
