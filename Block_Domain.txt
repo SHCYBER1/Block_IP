@@ -228,3 +228,4 @@ www.whatsapp.com
 https://www.whatsapp.com
 *.cn
 *.pelsbarn.org
+*.ipfs.io
