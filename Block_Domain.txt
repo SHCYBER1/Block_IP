@@ -226,3 +226,4 @@ https://t.me/+yXOcSjVjI9tjM2E0
 *.whatsapp.com
 www.whatsapp.com
 https://www.whatsapp.com
+*.cn
