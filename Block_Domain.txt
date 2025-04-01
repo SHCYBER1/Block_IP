@@ -227,3 +227,4 @@ https://t.me/+yXOcSjVjI9tjM2E0
 www.whatsapp.com
 https://www.whatsapp.com
 *.cn
+*.pelsbarn.org
