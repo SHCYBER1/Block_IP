@@ -231,3 +231,4 @@ https://www.whatsapp.com
 *.ipfs.io
 https://t.co/Uf10vDPpRm
 *.workers.dev
+*.rxsdd.cn
