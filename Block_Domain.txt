@@ -230,3 +230,4 @@ https://www.whatsapp.com
 *.pelsbarn.org
 *.ipfs.io
 https://t.co/Uf10vDPpRm
+*.workers.dev
