@@ -266,3 +266,4 @@ https://shorturl.at/bYqUx
 https://ws.onehub.com/files/bbmiio1c
 https://ws.onehub.com/files/zgov9aqy
 *.godotengine.org
+*.cdn.popcash.net
