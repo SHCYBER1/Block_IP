@@ -269,3 +269,7 @@ https://ws.onehub.com/files/zgov9aqy
 *.cdn.popcash.net
 *.mega.io
 *.nz
+*.ga.co.nz
+*..userstorage.me
+*.ikea0.com
+lebondogicoin.com
