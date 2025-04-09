@@ -274,3 +274,4 @@ https://ws.onehub.com/files/zgov9aqy
 *.ikea0.com
 lebondogicoin.com
 *.qwilt.com
+*.surveymonkey.com
