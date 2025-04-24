@@ -377,3 +377,4 @@ http://www.drm-x.com/pdfversion.htm
 *.www.drm-x.com
 *.haihaisoft-pdf-reader.software.informer.com
 https://lsems.gravityzone.bitdefender.com/scan/aHR0cHM6Ly9kYXJrdGl0YW5jb21pY3MuY29tL0MxbGxQL2R1bmdlb24=/8E3346756AEB8DBBB4E389B65D33C05A4284CD4CF4F8D98435E7728F876AA087?c=1&i=1&docs=1
+tdyfbwxngpmixjiqtjjote3k9qwc31dsx.oast.fun
