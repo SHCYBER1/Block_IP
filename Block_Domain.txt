@@ -387,3 +387,5 @@ https://val.skillcli.com/v6
 *.nl
 *.pdfroom.com
 *.oceanofpdf.com
+*.netflix.com
+*.hulu.com
