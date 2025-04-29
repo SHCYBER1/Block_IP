@@ -386,3 +386,4 @@ https://val.skillcli.com/v6
 *.fr
 *.nl
 *.pdfroom.com
+*.oceanofpdf.com
