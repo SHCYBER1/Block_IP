@@ -394,3 +394,7 @@ https://val.skillcli.com/v6
 *.victimname-okta.com
 *.kashbilly.duckdns.org
 *.klv1.it.com
+myhost001.myddns.me:9373
+http://www.sixfiguredigital.group/aoc3/
+packagelog@gtpv.online
+hosting2.ro.hostsailor.com:587
