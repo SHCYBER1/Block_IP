@@ -393,3 +393,4 @@ https://val.skillcli.com/v6
 *.victimname-servicedesk.com
 *.victimname-okta.com
 *.kashbilly.duckdns.org
+*.klv1.it.com
