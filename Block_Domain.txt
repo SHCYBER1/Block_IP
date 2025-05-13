@@ -389,3 +389,6 @@ https://val.skillcli.com/v6
 *.hulu.com
 *.oast.fun	
 *.pdffiller.com
+*.victimname-sso.com
+*.victimname-servicedesk.com
+*.victimname-okta.com
