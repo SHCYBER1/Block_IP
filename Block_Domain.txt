@@ -192,7 +192,6 @@ monerominer.rocks
 *.apowersoft.com
 *.pdf-xchange.com
 *.pdfchef.com
-*.cutepdf.com
 *.iceni.com
 *.pdfcandy.com
 *.pdf.abbyy.com
