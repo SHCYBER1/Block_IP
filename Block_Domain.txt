@@ -680,3 +680,4 @@ ezmbvm.com
 *.funnullv26.com
 *.funnullv23.com
 *.funnull301.com
+*.schule
