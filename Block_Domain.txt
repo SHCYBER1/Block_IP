@@ -646,3 +646,13 @@ evoshopstore.com
 examsource.com
 exoduscloud.com
 ezmbvm.com
+*.pizza
+*.pink
+*.cc
+*.at
+*.webcam
+*.tw
+*.bid
+*.blue
+*.wang
+*.sx
