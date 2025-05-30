@@ -518,3 +518,5 @@ workaem.eth.limo
 *longitudde.digital
 *climatologfy.top
 *starofliught.top
+*.top
+*.vip
