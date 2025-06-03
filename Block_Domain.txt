@@ -684,3 +684,7 @@ ezmbvm.com
 *.tradingviewtool.com
 docusign.sa.com
 docusign.sa.com/verification/c.php
+*.funnull.io
+*.funnull.com
+*.funnull.app
+*.funnull.buzz
