@@ -681,3 +681,5 @@ ezmbvm.com
 *.funnullv23.com
 *.funnull301.com
 *.schule
+*.tradingviewtool.com
+docusign.sa.com
