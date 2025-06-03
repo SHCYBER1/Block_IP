@@ -684,4 +684,3 @@ ezmbvm.com
 *.tradingviewtool.com
 docusign.sa.com
 docusign.sa.com/verification/c.php
-*.sa.com
