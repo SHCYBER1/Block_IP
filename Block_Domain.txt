@@ -688,3 +688,4 @@ docusign.sa.com/verification/c.php
 *.funnull.com
 *.funnull.app
 *.funnull.buzz
+*.de
