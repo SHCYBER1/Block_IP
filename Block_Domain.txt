@@ -689,3 +689,4 @@ docusign.sa.com/verification/c.php
 *.funnull.app
 *.funnull.buzz
 *.de
+*.NetworkAnalyzer.tar.gz
