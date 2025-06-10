@@ -698,3 +698,4 @@ advanceipscaner.com/additional-check.html
 exertjobmatch.com
 expertjobmatch.com
 www.costcoinsider.com
+*.temu.com
