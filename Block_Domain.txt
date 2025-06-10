@@ -700,3 +700,4 @@ expertjobmatch.com
 www.costcoinsider.com
 *.temu.com
 *.www.autohotkey.com
+*.shift.com
