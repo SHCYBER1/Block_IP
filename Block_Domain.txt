@@ -702,3 +702,4 @@ www.costcoinsider.com
 *.www.autohotkey.com
 *.shift.com
 https://github.com/AutoHotkey/AutoHotkey
+*.keycombiner.com
