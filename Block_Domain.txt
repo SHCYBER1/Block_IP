@@ -703,3 +703,4 @@ www.costcoinsider.com
 *.shift.com
 https://github.com/AutoHotkey/AutoHotkey
 *.keycombiner.com
+*.wegcas.com
