@@ -705,3 +705,4 @@ https://github.com/AutoHotkey/AutoHotkey
 *.keycombiner.com
 *.wegcas.com
 *shein.com
+*.cdn.popcash.net
