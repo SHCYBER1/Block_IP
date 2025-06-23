@@ -827,3 +827,4 @@ affiliateproductes.com
 *.Level.io
 *.tailscale.com
 *.vc
+https://www.coresecurity.com/core-labs/impacket
