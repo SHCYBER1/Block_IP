@@ -826,3 +826,4 @@ affiliateproductes.com
 *.Fleetdeck.io
 *.Level.io
 *.tailscale.com
+*.vc
