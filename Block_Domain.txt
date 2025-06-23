@@ -828,3 +828,4 @@ affiliateproductes.com
 *.tailscale.com
 *.vc
 https://www.coresecurity.com/core-labs/impacket
+*.ir
