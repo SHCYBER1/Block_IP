@@ -890,3 +890,6 @@ http://20.51.227.181/layout20223acb.dotm
 http://20.51.227.181/svchost.exe
 https://github.com/syohex/java-simple-mine-sweeperwarzoneTURBO
 secureyourdataarea1.duckdns.org:47449
+steamcommunity.com/profiles/76561199436777531
+*.mas.to
+*.mastodon.online
