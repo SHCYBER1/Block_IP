@@ -893,3 +893,13 @@ secureyourdataarea1.duckdns.org:47449
 steamcommunity.com/profiles/76561199436777531
 *.mas.to
 *.mastodon.online
+ioc.exchange/@xiteb15011
+*c.im
+t.me/asifrazatg
+steamcommunity.com/profiles/76561199441933804
+c.im/@xiteb15011
+nerdculture.de/@tiaga00
+*.nerdculture.de
+steamcommunity.com/profiles/76561199439929669
+*.steamcommunity.com
+*.tiktok.com
