@@ -883,3 +883,4 @@ https://4hmn.short.gy/NzyIIk
 *.ee
 *.hu
 *.warzone.ws
+l34d3r.duckdns.org:4047
