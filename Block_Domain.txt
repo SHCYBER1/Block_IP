@@ -880,3 +880,4 @@ https://shamahti.com.br/templates/ltappbank/html/layouts/plugins/editors/tinymce
 https://silonehair.com.br/wp-content_OLD/themes/twentynineteen/sass/site/footer/dose.php
 https://jasmine-bio.com/wp-content/plugins/elementor-pro/core/connect/apps/distributional.php
 https://4hmn.short.gy/NzyIIk
+*.ee
