@@ -882,3 +882,4 @@ https://jasmine-bio.com/wp-content/plugins/elementor-pro/core/connect/apps/distr
 https://4hmn.short.gy/NzyIIk
 *.ee
 *.hu
+*.warzone.ws
