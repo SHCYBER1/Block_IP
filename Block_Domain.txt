@@ -881,3 +881,4 @@ https://silonehair.com.br/wp-content_OLD/themes/twentynineteen/sass/site/footer/
 https://jasmine-bio.com/wp-content/plugins/elementor-pro/core/connect/apps/distributional.php
 https://4hmn.short.gy/NzyIIk
 *.ee
+*.hu
