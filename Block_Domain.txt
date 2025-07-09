@@ -1563,3 +1563,8 @@ https://getsession.org
 *.advanced-ip-scanz.net
 *.advansed-ip-scanner.net
 *.litterbolo.com
+cristox.cl
+deuscapacitaciones.cl
+parusiafm.cl
+pathernostrum.org
+sancupertino.cl
