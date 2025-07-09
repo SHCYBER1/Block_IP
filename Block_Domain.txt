@@ -1561,3 +1561,4 @@ zimomo-eth.xyz
 zimnomocoin.com
 https://getsession.org
 *.advanced-ip-scanz.net
+*.advansed-ip-scanner.net
