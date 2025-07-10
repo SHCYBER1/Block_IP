@@ -1589,3 +1589,4 @@ http://1235saddfs.icu/kk1/95.173.197.195/code32
 *.185.100.157.74/payload.exe
 *otter.ai
 *otterai.*
+otter.ai
