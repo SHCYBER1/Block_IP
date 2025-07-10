@@ -1582,3 +1582,4 @@ vpn.fastcall.cc
 vaihonet.com
 *.cyou
 *.djbzdhygj.com
+*.yqmqhjgn.com
