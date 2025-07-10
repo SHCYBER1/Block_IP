@@ -1580,3 +1580,4 @@ vpnpalo.com
 helpdesk-rating.com
 vpn.fastcall.cc
 vaihonet.com
+*.cyou
