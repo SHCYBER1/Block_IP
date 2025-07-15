@@ -733,7 +733,7 @@ cdnofficecloud.com
 *.ee
 *.hu
 *.warzone.ws
-l34d3r.duckdns.org:4047
+l34d3r.duckdns.org
 secureyourdataarea1.duckdns.org
 *.mas.to
 *.mastodon.online
