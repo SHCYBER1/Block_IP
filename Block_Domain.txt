@@ -379,6 +379,7 @@ evoshopstore.com
 examsource.com
 exoduscloud.com
 ezmbvm.com
+*.t.me
 *.pizza
 *.pink
 *.cc
