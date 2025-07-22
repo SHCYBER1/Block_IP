@@ -1279,3 +1279,4 @@ vaihonet.com
 *.hao123.com
 1235saddfs.icu
 otter.ai
+*.read.ai
