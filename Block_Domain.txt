@@ -1279,3 +1279,6 @@ vaihonet.com
 *.hao123.com
 1235saddfs.icu
 otter.ai
+tycoonkit-login.su
+authportal-gmail.org
+m365-verification.ru
