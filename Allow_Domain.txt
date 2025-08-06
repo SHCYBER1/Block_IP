@@ -1,1 +1,2 @@
 *.pdfgear.com
+*.ccts.amegroups.org
