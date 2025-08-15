@@ -1386,3 +1386,4 @@ mortgage-i-concrete-origins.trycloudflare.com
 sublime-forecasts-pale-scored.trycloudflare.com
 api.telegram.org/bot7684022823:AAFw0jHSu-b4qs6N7yC88nUOR8ovPrCdIrs/sendMessage?chat_id=6542615755
 intfdsl.us/sa5h17/
+updatessoftware.b-cdn.net/john/pr/04.08/IYTDTGTF.msi
