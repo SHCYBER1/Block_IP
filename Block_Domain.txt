@@ -1483,3 +1483,13 @@ git-desktop.app
 joebesser.com
 granitegastro.com
 calendaromatic.com
+chatgpt.com
+*.chatgpt.com
+grok.com
+*.grok.com
+read.ai
+*.read.ai
+claudeai.click
+*.claudeai.click
+claude.ai
+*.claude.ai
