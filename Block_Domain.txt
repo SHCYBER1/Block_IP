@@ -112,8 +112,6 @@
 *.samuelelena.co
 *.deepseek.com
 *.cpeciadogfoods.com
-HEP2Go.com
-*.HEP2Go.com
 application.pdfskillsapp.com
 monerominer.rocks
 *.rocks
