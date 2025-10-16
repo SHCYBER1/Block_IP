@@ -1491,3 +1491,17 @@ claudeai.click
 *.claudeai.click
 claude.ai
 *.claude.ai
+aisora2.com
+freesora2.site
+gptsora2.com
+openaisora2.com
+sora2.live
+sora2.tech
+sora2.vip
+sora2ai.io
+sora2app.com
+sora2pro.net
+sora2token.fun
+sora2vid.com
+sora2video.app
+sosora2.com
