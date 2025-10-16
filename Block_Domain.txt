@@ -1615,3 +1615,6 @@ cloud934221.lat
 cloud934221.lol
 cloud934221.pics
 cloud934221.xyz
+chatgptforchrome.com
+dinershtein.com
+gen-ai-search.com
