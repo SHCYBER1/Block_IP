@@ -1619,3 +1619,4 @@ chatgptforchrome.com
 dinershtein.com
 gen-ai-search.com
 elioshospital.com
+pdfsam.org
