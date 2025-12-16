@@ -1805,5 +1805,5 @@ teamlogin.esanojinjasvc.com
 tapeqcqoptions.com
 wmiapcservice.com
 johnfashionaccess.com
-reviewerpress.com
+*reviewerpress.com
 reviewerpressus.mycartpanda.com
