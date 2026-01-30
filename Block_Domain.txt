@@ -1832,3 +1832,4 @@ rasprod.com
 systemsheuristics.com
 chromewebstore.google.com/detail/chatgpt-search/ejcfepkfckglbgocfkanmcdngdijcgld?hl=en-US
 *discord.com
+*pdfagile.com
