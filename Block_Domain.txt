@@ -4512,3 +4512,5 @@ svc.ha-teams.office.com
 robovcs.com
 relativegoingplanning.net
 billiardinstitute.com
+fix-browser-update.com
+cdn-system-patch.net
