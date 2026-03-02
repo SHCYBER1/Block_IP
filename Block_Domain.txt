@@ -4591,3 +4591,4 @@ mcp-browser.qubecare.ai/chrome
 mcp-browser.qubecare.ai/mcp
 mcp-browser.qubecare.ai
 qubecare.ai
+open.ai
