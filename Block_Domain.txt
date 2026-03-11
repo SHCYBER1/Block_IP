@@ -4673,4 +4673,8 @@ vfy2.help
 *.bit.ly/4tWJhQh
 *.api.ra-backup.com/analytics/submit.php
 *.gateway.storjshare.io
-*.link.storjshare.io
+*.link.storjshare.iogitempire.s3.us-east-005.backblazeb2.com
+*.elvenforest.s3.us-east-005.backblazeb2.com
+*.uppdatefile.com
+*.serialmenot.com
+*.moonzonet.com
