@@ -4678,3 +4678,8 @@ vfy2.help
 *.uppdatefile.com
 *.serialmenot.com
 *.moonzonet.com
+*.backblaze-cloud.com
+*.wasabi-storage.net
+*.update-service.online
+*.conference-invite.online
+*.azure-update.cloud
