@@ -4685,3 +4685,4 @@ vfy2.help
 *.azure-update.cloud
 *.screenai.online
 *.eminders.trahum.org
+us02web.zoom.us/j/89462445346?pwd=vF7XtZkqG2y604NGGQOqfN3eOmTTzo.1
