@@ -4686,4 +4686,5 @@ vfy2.help
 *.screenai.online
 *.eminders.trahum.org
 us02web.zoom.us/j/89462445346?pwd=vF7XtZkqG2y604NGGQOqfN3eOmTTzo.1
-gohost.co.il
+*.gohost.co.il
+*.netvigil.org
