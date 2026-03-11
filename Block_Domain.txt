@@ -4684,3 +4684,4 @@ vfy2.help
 *.conference-invite.online
 *.azure-update.cloud
 *.screenai.online
+*.eminders.trahum.org
