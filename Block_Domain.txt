@@ -4705,3 +4705,6 @@ us02web.zoom.us/j/89462445346?pwd=vF7XtZkqG2y604NGGQOqfN3eOmTTzo.1
 *.Promoverse.org
 *.miniquest.org
 *.jerusalemsolutions.com
+*.veracrypt.io
+*.veracrypt.jp
+*.veracrypt.fr
