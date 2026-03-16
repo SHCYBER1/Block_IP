@@ -4709,3 +4709,4 @@ us02web.zoom.us/j/89462445346?pwd=vF7XtZkqG2y604NGGQOqfN3eOmTTzo.1
 *.veracrypt.jp
 *.veracrypt.fr
 *.handala-hack.to
+github.com/latestver/vpn/releases/download/vpn-client2/VPN-CLIENT.zip
