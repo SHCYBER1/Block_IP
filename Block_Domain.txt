@@ -4733,3 +4733,5 @@ myconnection.pro
 *.statsonlineviewin.com
 *.simple-help.com
 *.247ithelp.com
+*.search.namequery.com
+*.server.absolute.com
