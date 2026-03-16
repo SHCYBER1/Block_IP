@@ -4731,3 +4731,5 @@ vpn-connection.pro
 myconnection.pro
 *.onlinestatementstax.com
 *.statsonlineviewin.com
+*.simple-help.com
+*.247ithelp.com
