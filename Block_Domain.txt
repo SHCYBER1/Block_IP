@@ -4777,3 +4777,4 @@ github.com/dchapyshev/aspia
 *.rmm.barracudamsp.com
 *.barracudamsp.com
 *.basecamp.com
+*.beamyourscreen.com
