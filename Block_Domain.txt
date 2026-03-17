@@ -4738,3 +4738,4 @@ myconnection.pro
 *.prod.addigy.com
 *.grtmprod.addigy.com
 *.agents.addigy.com
+*.adobeconnect.com
