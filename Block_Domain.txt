@@ -4745,3 +4745,6 @@ myconnection.pro
 *.alpemix.com
 *.teknopars.com
 *.ammyy.com
+*.anysupport.net
+*.boot.net.anydesk.com
+*.anydesk.com
