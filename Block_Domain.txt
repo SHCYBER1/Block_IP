@@ -4744,3 +4744,4 @@ myconnection.pro
 *.wangwang.taobao.com
 *.alpemix.com
 *.teknopars.com
+*.ammyy.com
