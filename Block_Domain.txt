@@ -4749,3 +4749,5 @@ myconnection.pro
 *.boot.net.anydesk.com
 *.anydesk.com
 *.anyplace-control.com
+*.anyviewer.com
+*.aomeisoftware.com
