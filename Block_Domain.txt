@@ -4767,3 +4767,5 @@ github.com/dchapyshev/aspia
 *.ps.atera.com
 *.atera.pubnubapi.com
 *.appcdn.atera.com
+*.my.auvik.com
+*.auvik.com
