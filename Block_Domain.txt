@@ -4771,3 +4771,5 @@ github.com/dchapyshev/aspia
 *.auvik.com
 *.client-api.aweray.com
 *.asapi.aweray.net
+*.baramundi.com
+*.isodownload.baramundi.com
