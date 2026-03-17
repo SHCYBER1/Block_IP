@@ -4782,3 +4782,4 @@ github.com/dchapyshev/aspia
 *.beanywhere.en.uptodown.com/windows
 *.beinsync.com
 *.beinsync.net
+*.bitvise.com
