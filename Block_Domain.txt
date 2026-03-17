@@ -4776,3 +4776,4 @@ github.com/dchapyshev/aspia
 *.islonline.net
 *.rmm.barracudamsp.com
 *.barracudamsp.com
+*.basecamp.com
