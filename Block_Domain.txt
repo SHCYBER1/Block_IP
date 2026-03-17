@@ -4752,3 +4752,4 @@ myconnection.pro
 *.anyviewer.com
 *.aomeisoftware.com
 github.com/dchapyshev/aspia
+*.aspia.org
