@@ -4780,3 +4780,5 @@ github.com/dchapyshev/aspia
 *.beamyourscreen.com
 *.beanywhere.com
 *.beanywhere.en.uptodown.com/windows
+*.beinsync.com
+*.beinsync.net
