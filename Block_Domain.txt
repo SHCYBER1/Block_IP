@@ -4739,3 +4739,5 @@ myconnection.pro
 *.grtmprod.addigy.com
 *.agents.addigy.com
 *.adobeconnect.com
+*.auth.aeroadmin.com
+*.aeroadmin.com
