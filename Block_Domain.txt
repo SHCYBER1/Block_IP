@@ -4735,3 +4735,6 @@ myconnection.pro
 *.247ithelp.com
 *.search.namequery.com
 *.server.absolute.com
+*.prod.addigy.com
+*.grtmprod.addigy.com
+*.agents.addigy.com
