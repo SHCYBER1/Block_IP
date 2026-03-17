@@ -4783,3 +4783,4 @@ github.com/dchapyshev/aspia
 *.beinsync.com
 *.beinsync.net
 *.bitvise.com
+*.bluetrait.io
