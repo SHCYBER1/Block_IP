@@ -4778,3 +4778,5 @@ github.com/dchapyshev/aspia
 *.barracudamsp.com
 *.basecamp.com
 *.beamyourscreen.com
+*.beanywhere.com
+*.beanywhere.en.uptodown.com/windows
