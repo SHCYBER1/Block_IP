@@ -4773,3 +4773,6 @@ github.com/dchapyshev/aspia
 *.asapi.aweray.net
 *.baramundi.com
 *.isodownload.baramundi.com
+*.islonline.net
+*.rmm.barracudamsp.com
+*.barracudamsp.com
