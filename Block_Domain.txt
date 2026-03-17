@@ -4748,3 +4748,4 @@ myconnection.pro
 *.anysupport.net
 *.boot.net.anydesk.com
 *.anydesk.com
+*.anyplace-control.com
