@@ -4769,3 +4769,5 @@ github.com/dchapyshev/aspia
 *.appcdn.atera.com
 *.my.auvik.com
 *.auvik.com
+*.client-api.aweray.com
+*.asapi.aweray.net
