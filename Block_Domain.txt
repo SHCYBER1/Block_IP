@@ -4813,3 +4813,4 @@ chromoting-oauth.talkgadget.google.com
 *.itsm-us1.comodo.com
 *.mdmsupport.comodo.com
 *.one.comodo.com
+*.handala-redwanted.to
