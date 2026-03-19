@@ -4810,3 +4810,6 @@ remotedesktop-pa.googleapis.com
 chromoting-client.talkgadget.google.com
 chromoting-host.talkgadget.google.com
 chromoting-oauth.talkgadget.google.com
+*.itsm-us1.comodo.com
+*.mdmsupport.comodo.com
+*.one.comodo.com
