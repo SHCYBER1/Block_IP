@@ -4804,4 +4804,9 @@ github.com/latestver/vpn/releases/download/vpn-client2/VPN-CLIENT.zip
 *.watchguard-vpn.com
 *.vpn-connection.pro
 *.myconnection.pro
-
+*.centuriontech.com
+remotedesktop.google.com
+remotedesktop-pa.googleapis.com
+chromoting-client.talkgadget.google.com
+chromoting-host.talkgadget.google.com
+chromoting-oauth.talkgadget.google.com
