@@ -4814,3 +4814,4 @@ chromoting-oauth.talkgadget.google.com
 *.mdmsupport.comodo.com
 *.one.comodo.com
 *.handala-redwanted.to
+*yahoo.com
