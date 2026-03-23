@@ -4814,3 +4814,5 @@ chromoting-oauth.talkgadget.google.com
 *.mdmsupport.comodo.com
 *.one.comodo.com
 *.handala-redwanted.to
+*.irs-doc.com
+*.gov-irs216.net
