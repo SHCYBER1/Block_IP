@@ -4816,3 +4816,4 @@ chromoting-oauth.talkgadget.google.com
 *.handala-redwanted.to
 *.irs-doc.com
 *.gov-irs216.net
+*.smartvault.im
