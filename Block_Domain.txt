@@ -4818,3 +4818,5 @@ chromoting-oauth.talkgadget.google.com
 *.gov-irs216.net
 *.smartvault.im
 *.telegrgam.com
+*.justicehomeland.org
+*.karmabelow80.org
