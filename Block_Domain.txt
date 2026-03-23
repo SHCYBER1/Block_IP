@@ -4820,3 +4820,4 @@ chromoting-oauth.talkgadget.google.com
 *.telegrgam.com
 *.justicehomeland.org
 *.karmabelow80.org
+*.web.telegram.org
