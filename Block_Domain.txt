@@ -4817,3 +4817,4 @@ chromoting-oauth.talkgadget.google.com
 *.irs-doc.com
 *.gov-irs216.net
 *.smartvault.im
+*.telegrgam.com
