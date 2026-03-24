@@ -4821,3 +4821,4 @@ chromoting-oauth.talkgadget.google.com
 *.justicehomeland.org
 *.karmabelow80.org
 *.web.telegram.org
+*.crosstecsoftware.com
