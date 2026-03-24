@@ -4827,3 +4827,4 @@ chromoting-oauth.talkgadget.google.com
 *.deskday.ai
 *.app.deskday.ai
 *.desknets.com
+*.deskshare.com
