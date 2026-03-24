@@ -4823,3 +4823,4 @@ chromoting-oauth.talkgadget.google.com
 *.web.telegram.org
 *.crosstecsoftware.com
 *.resources.doradosoftware.com
+*.dameware.com
