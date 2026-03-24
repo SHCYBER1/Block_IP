@@ -4824,3 +4824,5 @@ chromoting-oauth.talkgadget.google.com
 *.crosstecsoftware.com
 *.resources.doradosoftware.com
 *.dameware.com
+*.deskday.ai
+*.app.deskday.ai
