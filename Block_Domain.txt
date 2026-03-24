@@ -4828,3 +4828,4 @@ chromoting-oauth.talkgadget.google.com
 *.app.deskday.ai
 *.desknets.com
 *.deskshare.com
+*.nchuser.com
