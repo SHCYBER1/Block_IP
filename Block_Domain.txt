@@ -4822,3 +4822,4 @@ chromoting-oauth.talkgadget.google.com
 *.karmabelow80.org
 *.web.telegram.org
 *.crosstecsoftware.com
+*.resources.doradosoftware.com
