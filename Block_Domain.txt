@@ -221,7 +221,6 @@ fileuploadcloud.egnyte.com
 downloadfile.egnyte.com
 *.godotengine.org
 *.cdn.popcash.net
-*.mega.io
 *.nz
 *.ga.co.nz
 *.ikea0.com
@@ -235,7 +234,7 @@ portal.sharjahconnect.online
 *.oceanofpdf.com
 *.netflix.com
 *.hulu.com
-*.oast.fun	
+*.oast.fun
 *.pdffiller.com
 *.victimname-sso.com
 *.victimname-servicedesk.com
@@ -431,7 +430,6 @@ expertjobmatch.com
 *.shift.com
 *.keycombiner.com
 *.wegcas.com
-*.cdn.popcash.net
 iqinternal.com
 artsabc.com
 iicsdrd.com
@@ -1342,10 +1340,6 @@ airbluefootgear.com/wp-includes/images/xits.php
 apple-online.shop/ChromeSetup.exe
 apple-online.shop/MSTeamsSetup.exe
 apple-online.shop/MicrosoftEdgeSetup.exe
-microsoft-msteams.com/additional-check.html
-microstteams.com/additional-check.html
-advanceipscaner.com/additional-check.html
-ecologilives.com/additional-check.html
 album-anthony-rn-submission.trycloudflare.com/25423565
 spa-step-hopkins-islands.trycloudflare.com/erfgtrtt
 metro-offset-imposed-behind.trycloudflare.com/ytjstast
@@ -1380,7 +1374,6 @@ una-idol-ta-missile.trycloudflare.com
 musicians-implied-less-model.trycloudflare.com
 strain-brighton-focused-kw.trycloudflare.com
 mortgage-i-concrete-origins.trycloudflare.com
-sublime-forecasts-pale-scored.trycloudflare.com
 api.telegram.org/bot7684022823:AAFw0jHSu-b4qs6N7yC88nUOR8ovPrCdIrs/sendMessage?chat_id=6542615755
 intfdsl.us/sa5h17/
 updatessoftware.b-cdn.net/john/pr/04.08/IYTDTGTF.msi
@@ -1447,8 +1440,6 @@ xuix.top/qrcode-verifychrome-extension
 z-a-extensionapp.uno
 zoomextensionuno.uno
 newextensioninstallweb.com
-extensioninstallnotifer.com
-xuix.top/qrcode-verifychrome-extension
 winsofthub.com/dld/
 keygen-win.org
 media98pc4.info/?h=ba2f39ce88153a2bf090d048fe3f25a4&user=44
@@ -1805,9 +1796,9 @@ teamlogin.esanojinjasvc.com
 tapeqcqoptions.com
 wmiapcservice.com
 johnfashionaccess.com
-*reviewerpress.com
+*.reviewerpress.com
 reviewerpressus.mycartpanda.com
-*nibblr-ai.com
+*.nibblr-ai.com
 cookiemanager.ne.kr
 nidiogln.ne.kr
 naverbox.pe.kr
@@ -1819,9 +1810,9 @@ owna.loveslife.biz
 online.korea.article-com.eu
 login.microsoftonline.org-view.work
 nidlogin.naver.com.ec
-*secure.totalav.com
-2tnl[.]digital
-2tnl[.]digital
+*.secure.totalav.com
+2tnl.digital
+*.2tnl.digital
 ankaraotogaleri.com
 antipolitical.com
 base22.digital
@@ -1831,8 +1822,8 @@ globalcharts.com
 rasprod.com
 systemsheuristics.com
 chromewebstore.google.com/detail/chatgpt-search/ejcfepkfckglbgocfkanmcdngdijcgld?hl=en-US
-*discord.com
-*pdfagile.com
+*.discord.com
+*.pdfagile.com
 0oforwarding.com
 aerix.com.de
 aguadvul.es
@@ -4554,7 +4545,7 @@ osix.ddnsgeek.com
 pewsus.freeddns.org
 systemsz.kozow.com
 telkomservices.theworkpc.com
-*pastebin.com
+*.pastebin.com
 ext-checkdin.vercel.app
 cleverstack-ext301.vercel.app
 cleverstack-app998.vercel.app
@@ -4630,8 +4621,6 @@ raw.githubusercontent.com/carr1stomh/FortniteSpoofer/edcf430af107ef18bcc3ed43579
 raw.githubusercontent.com/wrett1h/Monotone-HWID-Spoofer/f445555717a928a5e029dbf87b7a002e3d03b4c3/Monotone.exe
 raw.githubusercontent.com/svhcnenr/Temp-Spoofer-LifeTime/1cb620ea7a2c0dfb9d3779f0b2732b2a877fbc1f/TempSpoofer.exe
 github.com/svhcnenr/Temp-Spoofer-LifeTime/raw/refs/heads/main/TempSpoofer.exe
-github.com/ferrn1la/Monotone-HWID-Spoofer/raw/refs/heads/main/Monotone.exe
-github.com/lesth1alds/FortniteSpoofer/raw/refs/heads/main/TempSpoofer.exe
 raw.githubusercontent.com/am0slengh/SkriptGG/refs/heads/main/SkriptGG.exe
 raw.githubusercontent.com/spenddar1/Temp-Spoofer-LifeTime/refs/heads/main/TempSpoofer.exe
 swenku.xyz/gaok
@@ -4648,8 +4637,6 @@ nbcsfar.xyz/tpxz
 cbakk.xyz/ajng
 trsuv.xyz/gait
 sqgzl.xyz/taoa
-cexpxg.xyz/airq
-urarfx.xyz/twox
 plapwf.top/agnb
 narrathfpt.top/tekq
 escczlv.top/bufi
@@ -4786,7 +4773,6 @@ github.com/dchapyshev/aspia
 *.bluetrait.io
 *.checkpoint-vpn.com
 *.cisco-secure-client.es
-github.com/latestver/vpn/releases/download/vpn-client2/VPN-CLIENT.zip
 *.forticlient-for-mac.com
 *.forticlient-vpn.de
 *.forticlient-vpn.fr
@@ -4833,7 +4819,6 @@ y2iax5.com
 abf26u.com
 mka3e8.com
 5b7crp.com
-appsuites.ai
 sdk.appsuites.ai
 log.appsuites.ai
 on.appsuites.ai
@@ -4871,7 +4856,6 @@ getsmartpdf.com
 proonestartpdf.com
 cdasynergy.net
 pdfscraper.com
-appsuites.ai
 pdfts.site
 micromacrotechbase.com
 pdfartisan.com
@@ -4890,5 +4874,11 @@ itpdf.com
 transmitcdnzion.com
 smartmanualspdf.com
 pdfonestarttoday.com
-vault.appsuites.ai
 appsuites.ai
+reviewerpress.com
+nibblr-ai.com
+secure.totalav.com
+discord.com
+pdfagile.com
+pastebin.com
+disneyplus.com
