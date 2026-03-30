@@ -4882,3 +4882,9 @@ discord.com
 pdfagile.com
 pastebin.com
 disneyplus.com
+connect-st.westus3.cloudapp.azure.com
+login.netbird.io
+medicalrss.azurewebsites.net
+pharmarss.azurewebsites.net
+pkgs.netbird.io
+streamline-es-mad1-1.relay.netbird.io
