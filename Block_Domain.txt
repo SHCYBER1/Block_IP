@@ -4894,3 +4894,4 @@ streamline-es-mad1-1.relay.netbird.io
 *.duetdisplay.com
 rdp.duetdisplay.com
 *.itagent.com
+*.dwservice.net
