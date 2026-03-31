@@ -4897,3 +4897,4 @@ rdp.duetdisplay.com
 *.dwservice.net
 *.ehorus.com
 *.electric.ai
+*.emcosoftware.com
