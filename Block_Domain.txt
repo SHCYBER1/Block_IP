@@ -4896,3 +4896,4 @@ rdp.duetdisplay.com
 *.itagent.com
 *.dwservice.net
 *.ehorus.com
+*.electric.ai
