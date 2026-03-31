@@ -4888,3 +4888,9 @@ medicalrss.azurewebsites.net
 pharmarss.azurewebsites.net
 pkgs.netbird.io
 streamline-es-mad1-1.relay.netbird.io
+*.cell-1.domotz.com
+*.domotz.co
+*.domotz.com
+*.duetdisplay.com
+rdp.duetdisplay.com
+*.itagent.com
