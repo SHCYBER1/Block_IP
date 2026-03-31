@@ -4898,3 +4898,6 @@ rdp.duetdisplay.com
 *.ehorus.com
 *.electric.ai
 *.emcosoftware.com
+*.myeditorpdf.com
+*.docflares.com
+*.cleareditpdf.com
