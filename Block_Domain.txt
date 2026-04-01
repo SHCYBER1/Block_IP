@@ -4906,3 +4906,4 @@ rdp.duetdisplay.com
 *.cert-ua.tech
 *.ezhelp.co.kr
 *.fastviewer.com
+*.fortra.com
