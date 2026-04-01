@@ -4902,3 +4902,4 @@ rdp.duetdisplay.com
 *.docflares.com
 *.cleareditpdf.com
 *.acelauncher.com
+*.updates-cdn.acelauncher.com
