@@ -4907,3 +4907,7 @@ rdp.duetdisplay.com
 *.ezhelp.co.kr
 *.fastviewer.com
 *.fortra.com
+*.freerdp.com
+*.gatherplace.com
+*.gatherplace.net
+*.getscreen.me
