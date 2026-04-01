@@ -4904,3 +4904,5 @@ rdp.duetdisplay.com
 *.acelauncher.com
 *.updates-cdn.acelauncher.com
 *.cert-ua.tech
+*.ezhelp.co.kr
+*.fastviewer.com
