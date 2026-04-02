@@ -4911,3 +4911,6 @@ rdp.duetdisplay.com
 *.gatherplace.com
 *.gatherplace.net
 *.getscreen.me
+*.webcrystal.lol
+*.webcrystal.sbs
+*.crystalxrat.top
