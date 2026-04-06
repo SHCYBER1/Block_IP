@@ -4917,3 +4917,4 @@ rdp.duetdisplay.com
 *.ny.gov-skd.org
 *.ny.ofkhv.life
 *.gotohttp.com
+*.GoToMyPC.com
