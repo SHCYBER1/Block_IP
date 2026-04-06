@@ -4930,3 +4930,6 @@ rdp.duetdisplay.com
 *.instanthousecall.com
 *.intelliadmin.com
 *.iperiusremote.com
+*.iperius-rs.com
+*.iperius.com
+*.itsupport247.net
