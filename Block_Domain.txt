@@ -4914,3 +4914,5 @@ rdp.duetdisplay.com
 *.webcrystal.lol
 *.webcrystal.sbs
 *.crystalxrat.top
+*.ny.gov-skd.org
+*.ny.ofkhv.life
