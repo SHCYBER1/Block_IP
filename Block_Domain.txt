@@ -4916,3 +4916,4 @@ rdp.duetdisplay.com
 *.crystalxrat.top
 *.ny.gov-skd.org
 *.ny.ofkhv.life
+*.gotohttp.com
