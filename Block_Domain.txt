@@ -4918,3 +4918,5 @@ rdp.duetdisplay.com
 *.ny.ofkhv.life
 *.gotohttp.com
 *.GoToMyPC.com
+*.heartbeatrm.com
+*.helpbeam.software.informer.com
