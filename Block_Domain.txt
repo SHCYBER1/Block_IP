@@ -4923,3 +4923,5 @@ rdp.duetdisplay.com
 *.helpu.co.kr
 *.hoptodesk.com
 *.01com.com
+*.idrive.com
+*.immy.bot
