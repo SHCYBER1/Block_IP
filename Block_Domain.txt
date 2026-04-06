@@ -4920,3 +4920,6 @@ rdp.duetdisplay.com
 *.GoToMyPC.com
 *.heartbeatrm.com
 *.helpbeam.software.informer.com
+*.helpu.co.kr
+*.hoptodesk.com
+*.01com.com
