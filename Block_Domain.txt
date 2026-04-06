@@ -4928,3 +4928,5 @@ rdp.duetdisplay.com
 *.imperosoftware.com
 *.instanthousecall.net
 *.instanthousecall.com
+*.intelliadmin.com
+*.iperiusremote.com
