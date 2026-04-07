@@ -4945,3 +4945,4 @@ rdp.duetdisplay.com
 *.khelpdesk.com.br
 *.kickidler.com
 *.9bis.net/kitty/
+*.koofr.eu
