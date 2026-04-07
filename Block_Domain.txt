@@ -4950,3 +4950,7 @@ rdp.duetdisplay.com
 *.le.laplink.com
 *.atled.syspectr.com
 *.web.laplink.com/product/laplink-gold
+*.downloads.io
+*.agents.level.io
+*.builds.level.io
+*.level.io
