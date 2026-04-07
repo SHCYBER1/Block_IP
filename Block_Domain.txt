@@ -4933,3 +4933,6 @@ rdp.duetdisplay.com
 *.iperius-rs.com
 *.iperius.com
 *.itsupport247.net
+*.jinx.de
+*.api.jumpcloud.com
+*.assist.jumpcloud.com
