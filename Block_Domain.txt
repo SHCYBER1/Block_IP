@@ -4938,3 +4938,7 @@ rdp.duetdisplay.com
 *.assist.jumpcloud.com
 *.kabuto.io
 *.repairtechsolutions.com
+*managedsupport.kaseya.net
+*.kaseya.net
+*.kaseya.com
+*.deploy01.kaseya.com
