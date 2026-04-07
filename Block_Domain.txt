@@ -4946,3 +4946,6 @@ rdp.duetdisplay.com
 *.kickidler.com
 *.9bis.net/kitty/
 *.koofr.eu
+*.everywhere.laplink.com
+*.le.laplink.com
+*.atled.syspectr.com
