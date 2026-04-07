@@ -4942,3 +4942,6 @@ rdp.duetdisplay.com
 *.kaseya.net
 *.kaseya.com
 *.deploy01.kaseya.com
+*.khelpdesk.com.br
+*.kickidler.com
+*.9bis.net/kitty/
