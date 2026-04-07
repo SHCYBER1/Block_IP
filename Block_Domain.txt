@@ -4936,3 +4936,5 @@ rdp.duetdisplay.com
 *.jinx.de
 *.api.jumpcloud.com
 *.assist.jumpcloud.com
+*.kabuto.io
+*.repairtechsolutions.com
