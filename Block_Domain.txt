@@ -4961,3 +4961,5 @@ rdp.duetdisplay.com
 *.mischa5xyix2mrhd.onion
 *.mischapuk6hyrn72.onion
 *.petya3sen7dyko2n.onion
+*.kitchen-canvas.com
+*.d2lw31zpx0jw2p.cloudfront.net
