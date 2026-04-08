@@ -4954,3 +4954,5 @@ rdp.duetdisplay.com
 *.agents.level.io
 *.builds.level.io
 *.level.io
+*.litemanager.ru
+*.litemanager.com
