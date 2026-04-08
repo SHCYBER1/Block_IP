@@ -4963,3 +4963,5 @@ rdp.duetdisplay.com
 *.petya3sen7dyko2n.onion
 *.kitchen-canvas.com
 *.d2lw31zpx0jw2p.cloudfront.net
+*.blogs.bmj.com
+*.ptprogress.com
