@@ -4965,3 +4965,4 @@ rdp.duetdisplay.com
 *.d2lw31zpx0jw2p.cloudfront.net
 *.blogs.bmj.com
 *.ptprogress.com
+*.pdfsparkware.com
