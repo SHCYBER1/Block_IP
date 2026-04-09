@@ -4966,3 +4966,4 @@ rdp.duetdisplay.com
 *.blogs.bmj.com
 *.ptprogress.com
 *.pdfsparkware.com
+*.pdfsparkcomponent.s3.us-east-2.amazonaws.com/PDFSparkFiles.7z
