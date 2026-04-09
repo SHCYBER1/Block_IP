@@ -4969,3 +4969,4 @@ rdp.duetdisplay.com
 *.pdfsparkcomponent.s3.us-east-2.amazonaws.com/PDFSparkFiles.7z
 *.crls.ssl.com
 *.eelphone.com
+*.engdic.org
