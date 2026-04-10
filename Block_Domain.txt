@@ -4972,3 +4972,6 @@ rdp.duetdisplay.com
 *.engdic.org
 *.pdfsparkapi.com
 *.fireflies.ai
+*.dl.jalecdn.com
+*.ru.download.it
+*.consent.cookie-script.com
