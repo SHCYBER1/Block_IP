@@ -4971,3 +4971,4 @@ rdp.duetdisplay.com
 *.eelphone.com
 *.engdic.org
 *.pdfsparkapi.com
+*.fireflies.ai
