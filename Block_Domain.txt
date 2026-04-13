@@ -632,7 +632,7 @@
 *.advennture.top
 *.altocloudzone.live
 *.Authorizev.site
-*.autismnow*.
+*.autismnow
 *.avpvuurwerk.nl
 *.beautyhabits.gr
 *.blast-hubs.com
@@ -712,7 +712,7 @@
 *.Opposezmny.site
 *.oreheatq.live
 *.otter.ai
-*.otterai.*.
+*.otterai
 *.owlflright.digital
 *.Ownerbuffersuperw.pw
 *.paleboreei.biz
