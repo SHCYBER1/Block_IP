@@ -5302,3 +5302,4 @@ rdp.duetdisplay.com
 *.dl.jalecdn.com
 *.ru.download.it
 *.consent.cookie-script.com
+*.japanroom.com
