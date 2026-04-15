@@ -5245,3 +5245,5 @@ pub-45c2577dbd174292a02137c18e7b1b5a.r2.dev
 *.pdfpolish.com
 *.givemerecipe.com
 *.ace.ai
+*.browser.ace.ai
+*.onboarding.ace.ai
