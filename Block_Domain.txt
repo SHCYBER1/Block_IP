@@ -5244,3 +5244,4 @@ pub-45c2577dbd174292a02137c18e7b1b5a.r2.dev
 *.gonzalomartinez.mx
 *.pdfpolish.com
 *.givemerecipe.com
+*.ace.ai
