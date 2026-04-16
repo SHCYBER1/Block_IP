@@ -5255,3 +5255,4 @@ rescue-list.logmein-gateway.com
 rescue-data-cetner.logmein-gateway.com
 *.logmein-gateway.com
 *.logmeininc.com
+*.meshcentral.com
