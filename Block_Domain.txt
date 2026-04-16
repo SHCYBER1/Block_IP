@@ -5250,3 +5250,8 @@ pub-45c2577dbd174292a02137c18e7b1b5a.r2.dev
 *.kemostarlogistics.co.ke
 *.terryhill.top
 *.jaguarline.com
+*.logmeinrescue.com
+rescue-list.logmein-gateway.com
+rescue-data-cetner.logmein-gateway.com
+*.logmein-gateway.com
+*.logmeininc.com
