@@ -5258,3 +5258,4 @@ rescue-data-cetner.logmein-gateway.com
 *.meshcentral.com
 *.herokuapp.com
 *.n8n.io
+*.majormetalcsorp.com/Openfolder
