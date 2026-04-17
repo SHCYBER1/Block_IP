@@ -5261,3 +5261,4 @@ rescue-data-cetner.logmein-gateway.com
 *.majormetalcsorp.com/Openfolder
 *.mikogo.com
 *.mikogo4.com
+*.real-time-collaboration.com
