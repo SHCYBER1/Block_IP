@@ -5267,3 +5267,4 @@ rescue-data-cetner.logmein-gateway.com
 *.msp360.com
 *.mspbackups.com
 *.mygreenpc.com
+*.myivo-server.software.informer.com
