@@ -5256,3 +5256,4 @@ rescue-data-cetner.logmein-gateway.com
 *.logmein-gateway.com
 *.logmeininc.com
 *.meshcentral.com
+*.herokuapp.com
