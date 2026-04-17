@@ -5259,3 +5259,5 @@ rescue-data-cetner.logmein-gateway.com
 *.herokuapp.com
 *.n8n.io
 *.majormetalcsorp.com/Openfolder
+*.mikogo.com
+*.mikogo4.com
