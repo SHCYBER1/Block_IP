@@ -5268,3 +5268,4 @@ rescue-data-cetner.logmein-gateway.com
 *.mspbackups.com
 *.mygreenpc.com
 *.myivo-server.software.informer.com
+*.torproject.org
