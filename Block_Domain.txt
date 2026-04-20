@@ -5278,3 +5278,4 @@ rescue-data-cetner.logmein-gateway.com
 *.cloudbackup.management
 *.systemmonitor.us
 *.n-able.com
+*.naverisk.com
