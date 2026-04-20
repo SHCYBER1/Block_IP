@@ -5288,3 +5288,4 @@ rescue-data-cetner.logmein-gateway.com
 *.dashboard-salesforce.com
 *.companyname-my-salesforce.com
 *.keyword-salesforce.com
+*.netlockrmm.com
