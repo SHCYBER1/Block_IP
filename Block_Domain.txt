@@ -5280,3 +5280,11 @@ rescue-data-cetner.logmein-gateway.com
 *.n-able.com
 *.naverisk.com
 *.netbird.io
+*.ticket-audemarspiguet.com
+*.ticket-nike.com
+*.ticket-dior.com
+*.ticket-lvmh.com
+*.ticket-louisvuitton.com
+*.dashboard-salesforce.com
+*.companyname-my-salesforce.com
+*.keyword-salesforce.com
