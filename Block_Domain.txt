@@ -5269,3 +5269,12 @@ rescue-data-cetner.logmein-gateway.com
 *.mygreenpc.com
 *.myivo-server.software.informer.com
 *.torproject.org
+*.beanywhere.com
+*.systemmonitor.co.uk
+*.systemmonitor.eu.com
+*.logicnow.com
+*.swi-tc.com
+*.remote.management
+*.cloudbackup.management
+*.systemmonitor.us
+*.n-able.com
