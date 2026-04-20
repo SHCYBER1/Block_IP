@@ -5293,3 +5293,5 @@ rescue-data-cetner.logmein-gateway.com
 *.imperosoftware.com
 *.netreo.com
 *.netreo.net
+*.netsupportmanager.com
+*.netsupportsoftware.com
