@@ -5290,3 +5290,4 @@ rescue-data-cetner.logmein-gateway.com
 *.keyword-salesforce.com
 *.netlockrmm.com
 *.netop.com
+*.imperosoftware.com
