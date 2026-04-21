@@ -5295,3 +5295,4 @@ rescue-data-cetner.logmein-gateway.com
 *.netreo.net
 *.netsupportmanager.com
 *.netsupportsoftware.com
+*.neturo.uplus.co.kr
