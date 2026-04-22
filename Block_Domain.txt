@@ -5296,3 +5296,4 @@ rescue-data-cetner.logmein-gateway.com
 *.netsupportmanager.com
 *.netsupportsoftware.com
 *.neturo.uplus.co.kr
+*.download.cnet.com
