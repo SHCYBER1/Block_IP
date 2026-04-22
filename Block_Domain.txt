@@ -5299,3 +5299,4 @@ rescue-data-cetner.logmein-gateway.com
 *.download.cnet.com
 *.ngrok-agent.com
 *.ngrok.com
+*.nomachine.com
