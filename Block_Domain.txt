@@ -5304,3 +5304,5 @@ rescue-data-cetner.logmein-gateway.com
 *.ocsinventory-ng.org
 *.onionshare.org
 *.bravurasoftware.com
+*.kitchen-canvas.com
+kitchen-canvas.com
