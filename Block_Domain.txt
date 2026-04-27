@@ -5302,3 +5302,4 @@ rescue-data-cetner.logmein-gateway.com
 *.nomachine.com
 *.ntrsupport.com
 *.ocsinventory-ng.org
+*.onionshare.org
