@@ -5303,3 +5303,4 @@ rescue-data-cetner.logmein-gateway.com
 *.ntrsupport.com
 *.ocsinventory-ng.org
 *.onionshare.org
+*.bravurasoftware.com
