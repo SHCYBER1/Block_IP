@@ -5330,3 +5330,4 @@ kitchen-canvas.com
 *.parallels.com
 *.parsec.app
 *.uvnc.com
+*.au.pcmag.com
