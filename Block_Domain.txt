@@ -5335,3 +5335,4 @@ kitchen-canvas.com
 *.app.pdq.com
 *.cloudflarestorage.com
 *.pilixo.com
+*.soti.net
