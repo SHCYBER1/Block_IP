@@ -5331,3 +5331,4 @@ kitchen-canvas.com
 *.parsec.app
 *.uvnc.com
 *.au.pcmag.com
+*.pcvisit.de
