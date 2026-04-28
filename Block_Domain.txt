@@ -5326,3 +5326,6 @@ kitchen-canvas.com
 *.t.me/slshchat
 *.t.me/ripalldaguyz
 *.portal.ehorus.com
+*.panorama9.com
+*.parallels.com
+*.parsec.app
