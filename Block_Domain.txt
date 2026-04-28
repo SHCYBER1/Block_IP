@@ -5336,3 +5336,4 @@ kitchen-canvas.com
 *.cloudflarestorage.com
 *.pilixo.com
 *.soti.net
+*.kace.com
