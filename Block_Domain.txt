@@ -5325,3 +5325,4 @@ kitchen-canvas.com
 *.t.me/slsh69
 *.t.me/slshchat
 *.t.me/ripalldaguyz
+*.portal.ehorus.com
