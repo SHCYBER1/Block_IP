@@ -5332,3 +5332,5 @@ kitchen-canvas.com
 *.uvnc.com
 *.au.pcmag.com
 *.pcvisit.de
+*.app.pdq.com
+*.cloudflarestorage.com
