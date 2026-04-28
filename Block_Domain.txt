@@ -5329,3 +5329,4 @@ kitchen-canvas.com
 *.panorama9.com
 *.parallels.com
 *.parsec.app
+*.uvnc.com
