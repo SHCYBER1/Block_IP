@@ -5338,3 +5338,4 @@ kitchen-canvas.com
 *.soti.net
 *.kace.com
 github.com/V-E-O/rdp2tcp
+*.systemmanager.ru
