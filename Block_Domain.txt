@@ -5342,3 +5342,5 @@ github.com/V-E-O/rdp2tcp
 *.remobo.en.softonic.com
 *.donkz.nl
 *.rmansys.ru
+delish.com
+*.delish.com
