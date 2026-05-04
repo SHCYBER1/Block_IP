@@ -5340,3 +5340,5 @@ kitchen-canvas.com
 github.com/V-E-O/rdp2tcp
 *.systemmanager.ru
 *.remobo.en.softonic.com
+*.donkz.nl
+*.rmansys.ru
