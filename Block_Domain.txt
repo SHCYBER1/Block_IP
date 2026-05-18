@@ -5407,3 +5407,5 @@ e.goowevea.digital/GEmwXMQf@4eL53ZF4
 *.server-eye.de
 *.showmypc.com
 *.site24x7.com
+*.deskroll.com
+*.skyfex.com
