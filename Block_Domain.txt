@@ -5414,3 +5414,6 @@ e.goowevea.digital/GEmwXMQf@4eL53ZF4
 *.sophosupd.com
 *.sophos.com
 *.sorillus.com
+*.spytech-web.com
+*.sunlogin.oray.com
+*.client.oray.net
