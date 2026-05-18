@@ -5404,3 +5404,4 @@ e.goowevea.digital/GEmwXMQf@4eL53ZF4
 *.scrn.mt
 *.seetrol.co.kr
 *.senso.cloud
+*.server-eye.de
