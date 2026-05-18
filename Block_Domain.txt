@@ -5397,3 +5397,4 @@ e.goowevea.digital/GEmwXMQf@4eL53ZF4
 *.rodex.cc
 *.royalapps.com
 *.rport.io
+*.runsmart.io
