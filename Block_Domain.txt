@@ -5393,3 +5393,4 @@ e.goowevea.digital/GEmwXMQf@4eL53ZF4
 *.remotepc.com
 *.rview.com
 *.api.remsupp.com
+*.rocketsoftware.com
