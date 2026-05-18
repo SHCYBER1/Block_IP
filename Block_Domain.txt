@@ -5389,3 +5389,5 @@ e.goowevea.digital/GEmwXMQf@4eL53ZF4
 *.remote.it
 *.startsupport.com
 *.remotecall.com
+*.remotedesktop.com
+*.remotepc.com
