@@ -5409,3 +5409,4 @@ e.goowevea.digital/GEmwXMQf@4eL53ZF4
 *.site24x7.com
 *.deskroll.com
 *.skyfex.com
+*.sysprogs.com
