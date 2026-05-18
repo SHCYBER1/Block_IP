@@ -5391,3 +5391,4 @@ e.goowevea.digital/GEmwXMQf@4eL53ZF4
 *.remotecall.com
 *.remotedesktop.com
 *.remotepc.com
+*.rview.com
