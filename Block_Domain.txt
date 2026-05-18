@@ -5344,3 +5344,6 @@ github.com/V-E-O/rdp2tcp
 *.rmansys.ru
 delish.com
 *.delish.com
+694b6bcfa27554.lhr.life
+edcf8b03c84634.lhr.life
+87e0bbc636999b.lhr.life
