@@ -5402,3 +5402,4 @@ e.goowevea.digital/GEmwXMQf@4eL53ZF4
 *.s3browser.com
 *.screenmeet.com
 *.scrn.mt
+*.seetrol.co.kr
