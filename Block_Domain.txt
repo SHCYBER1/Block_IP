@@ -5410,3 +5410,7 @@ e.goowevea.digital/GEmwXMQf@4eL53ZF4
 *.deskroll.com
 *.skyfex.com
 *.sysprogs.com
+*.sophosupd.net
+*.sophosupd.com
+*.sophos.com
+*.sorillus.com
