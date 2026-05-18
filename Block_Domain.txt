@@ -5396,3 +5396,4 @@ e.goowevea.digital/GEmwXMQf@4eL53ZF4
 *.rocketsoftware.com
 *.rodex.cc
 *.royalapps.com
+*.rport.io
