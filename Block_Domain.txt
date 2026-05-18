@@ -5403,3 +5403,4 @@ e.goowevea.digital/GEmwXMQf@4eL53ZF4
 *.screenmeet.com
 *.scrn.mt
 *.seetrol.co.kr
+*.senso.cloud
