@@ -5405,3 +5405,4 @@ e.goowevea.digital/GEmwXMQf@4eL53ZF4
 *.seetrol.co.kr
 *.senso.cloud
 *.server-eye.de
+*.showmypc.com
