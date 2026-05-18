@@ -5398,3 +5398,4 @@ e.goowevea.digital/GEmwXMQf@4eL53ZF4
 *.royalapps.com
 *.rport.io
 *.runsmart.io
+*.rustdesk.com
