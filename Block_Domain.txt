@@ -5430,3 +5430,7 @@ github.com/Terminals-Origin/Terminals
 *.tmate.io
 *.todesk.com
 *.total-software-deployment.com
+*.acceo.com
+*.devtunnels.ms
+*.global.rel.tunnels.api.visualstudio.com
+*.github.com/Mikej81/WebRDP
