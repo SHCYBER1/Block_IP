@@ -5428,3 +5428,5 @@ e.goowevea.digital/GEmwXMQf@4eL53ZF4
 *.tele-desk.com
 github.com/Terminals-Origin/Terminals
 *.tmate.io
+*.todesk.com
+*.total-software-deployment.com
