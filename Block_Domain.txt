@@ -5417,3 +5417,4 @@ e.goowevea.digital/GEmwXMQf@4eL53ZF4
 *.spytech-web.com
 *.sunlogin.oray.com
 *.client.oray.net
+*.supremocontrol.com
