@@ -5427,3 +5427,4 @@ e.goowevea.digital/GEmwXMQf@4eL53ZF4
 *.cloud.tanium.com
 *.tele-desk.com
 github.com/Terminals-Origin/Terminals
+*.tmate.io
