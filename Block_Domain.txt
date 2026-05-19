@@ -5426,3 +5426,4 @@ e.goowevea.digital/GEmwXMQf@4eL53ZF4
 *.login.tailscale.com
 *.cloud.tanium.com
 *.tele-desk.com
+github.com/Terminals-Origin/Terminals
