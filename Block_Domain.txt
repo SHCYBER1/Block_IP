@@ -5425,3 +5425,4 @@ e.goowevea.digital/GEmwXMQf@4eL53ZF4
 *.docs.tacticalrmm.com
 *.login.tailscale.com
 *.cloud.tanium.com
+*.tele-desk.com
