@@ -5435,3 +5435,4 @@ github.com/Terminals-Origin/Terminals
 *.global.rel.tunnels.api.visualstudio.com
 *.github.com/Mikej81/WebRDP
 *.wiki.x2go.org
+*.github.com/Xpra-org/xpra/
