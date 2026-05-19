@@ -5422,3 +5422,5 @@ e.goowevea.digital/GEmwXMQf@4eL53ZF4
 *.kabutoservices.com
 *.syncroapi.com
 *.syspectr.com
+*.docs.tacticalrmm.com
+*.login.tailscale.com
