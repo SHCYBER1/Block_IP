@@ -5436,3 +5436,5 @@ github.com/Terminals-Origin/Terminals
 *.github.com/Mikej81/WebRDP
 *.wiki.x2go.org
 *.github.com/Xpra-org/xpra/
+*.xrdp.org
+*.xshell.com
