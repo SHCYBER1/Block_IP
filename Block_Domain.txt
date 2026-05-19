@@ -5438,3 +5438,4 @@ github.com/Terminals-Origin/Terminals
 *.github.com/Xpra-org/xpra/
 *.xrdp.org
 *.xshell.com
+*.zabbix.com
