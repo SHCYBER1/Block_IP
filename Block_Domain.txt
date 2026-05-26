@@ -5444,3 +5444,4 @@ github.com/Terminals-Origin/Terminals
 *.PeerDistSvcManagers.azurewebsites.net
 *.ThemesManagers.azurewebsites.net
 *.ThemesProviderManagers.azurewebsites.net
+*.docspace-y4cumb.onlyoffice.com/storage/files/root/folder_3602000/file_3601577/v1/content.zip
