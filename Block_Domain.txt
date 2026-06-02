@@ -5470,3 +5470,4 @@ github.com/Terminals-Origin/Terminals
 *.beacontrace.bond
 *.ns1.erans.ru
 *.ycyfugihih.cfd
+*.tempmail.so
