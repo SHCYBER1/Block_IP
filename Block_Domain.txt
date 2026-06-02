@@ -5469,3 +5469,4 @@ github.com/Terminals-Origin/Terminals
 *.check.first-node.rocks
 *.beacontrace.bond
 *.ns1.erans.ru
+*.ycyfugihih.cfd
