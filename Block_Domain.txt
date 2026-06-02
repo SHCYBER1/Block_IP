@@ -5467,3 +5467,4 @@ github.com/Terminals-Origin/Terminals
 *.storevages.org
 *.openew.app
 *.check.first-node.rocks
+*.beacontrace.bond
