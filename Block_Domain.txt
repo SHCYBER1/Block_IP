@@ -5468,3 +5468,4 @@ github.com/Terminals-Origin/Terminals
 *.openew.app
 *.check.first-node.rocks
 *.beacontrace.bond
+*.ns1.erans.ru
