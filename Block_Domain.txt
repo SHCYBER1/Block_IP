@@ -5475,3 +5475,5 @@ github.com/Terminals-Origin/Terminals
 *.cptoptious.com
 *.ztds.info
 *.bseolized.com
+clearclips.com
+*.clearclips.com
