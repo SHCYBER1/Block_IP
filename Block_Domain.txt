@@ -5477,3 +5477,4 @@ github.com/Terminals-Origin/Terminals
 *.bseolized.com
 clearclips.com
 *.clearclips.com
+*.zerolimit-servers.cool
