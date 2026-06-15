@@ -5478,3 +5478,5 @@ github.com/Terminals-Origin/Terminals
 clearclips.com
 *.clearclips.com
 *.zerolimit-servers.cool
+*.baza.com
+*.guigu.com
