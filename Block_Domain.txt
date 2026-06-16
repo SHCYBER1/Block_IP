@@ -5480,3 +5480,4 @@ clearclips.com
 *.zerolimit-servers.cool
 *.baza.com
 *.guigu.com
+*.mallory.ai
