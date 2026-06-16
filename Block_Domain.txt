@@ -5481,3 +5481,4 @@ clearclips.com
 *.baza.com
 *.guigu.com
 *.mallory.ai
+*.copper6.com
