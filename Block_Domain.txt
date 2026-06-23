@@ -5481,3 +5481,4 @@ clearclips.com
 *.guigu.com
 *.mallory.ai
 *.copper6.com
+*.dogecoin2.mainnet.core.blockfrost.io
