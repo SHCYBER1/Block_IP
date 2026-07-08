@@ -5483,10 +5483,8 @@ clearclips.com
 *.copper6.com
 *.dogecoin2.mainnet.core.blockfrost.io
 gemini.google.com
-cdn.jsdelivr.net
 encontroclinica.com.br
 lvt.vip1xbet.net
-*.cdn.jsdelivr.net
 *.encontroclinica.com.br
 *.lvt.vip1xbet.net
 boodystat.click
