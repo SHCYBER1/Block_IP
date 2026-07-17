@@ -228,7 +228,6 @@
 *.getfnewssolutions.com
 *.getscreen.me
 *.getsession.org
-*.gimp.org
 *.girlsbags.shop
 *.github.com/AutoHotkey/AutoHotkey
 *.github.com/syohex/java-simple-mine-sweeperwarzoneTURBO
