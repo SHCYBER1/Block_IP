@@ -5393,7 +5393,6 @@ e.goowevea.digital/GEmwXMQf@4eL53ZF4
 *.api.remsupp.com
 *.rocketsoftware.com
 *.rodex.cc
-*.royalapps.com
 *.rport.io
 *.runsmart.io
 *.rustdesk.com
