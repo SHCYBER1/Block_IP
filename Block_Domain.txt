@@ -5538,4 +5538,4 @@ Oakenfjrod.ru
 download-version.1-5-8.com
 download.get-version.com
 is-01-ast.ols-img-12.workers.dev
-fine-work-team.com
+*.fine-work-team.com
