@@ -5541,3 +5541,6 @@ is-01-ast.ols-img-12.workers.dev
 *.fine-work-team.com
 jbfsale.com
 *.jbfsale.com
+*.pan.tenire.com
+*.global.turn.twilio.com
+*.stun2.l.google.com
