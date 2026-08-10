@@ -5302,7 +5302,6 @@ rescue-data-cetner.logmein-gateway.com
 *.ocsinventory-ng.org
 *.onionshare.org
 *.bravurasoftware.com
-*.kitchen-canvas.com
 kitchen-canvas.com
 *.t.me/scatteredlapsusp1d3rhunters
 *.t.me/scatteredsp1d3rhunters
@@ -5543,3 +5542,5 @@ jbfsale.com
 *.pan.tenire.com
 *.global.turn.twilio.com
 *.stun2.l.google.com
+*.mykitchencanvas.com
+*.kitchencanvas.io
