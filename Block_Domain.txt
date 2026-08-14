@@ -5544,3 +5544,4 @@ jbfsale.com
 *.stun2.l.google.com
 *.mykitchencanvas.com
 *.kitchencanvas.io
+*.files.catbox.moe
