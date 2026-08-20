@@ -5551,3 +5551,8 @@ bna6mhximutqknymisjbp277swmhf7gocambh6y62qmdtup34unjs7yd.onion
 httj32vkww42kq3kjbsbuuv2izalkvswuyf5hepdodakrjq42ploe6ad.onion
 2yxf2ald2c67twt4663piypum2fu6yt4su453naxsdiilpd4m7pgu6qd.onion
 k6wtpxwq72gpeil5hqofae7yhbtxphbkyoe2g7rwmpx5sadc4sgsfvid.onion
+*.1vpns.com
+*.1vpns.org
+*.1vpns.net
+*.1jabber.com
+*.t.me/FirstVPNService Telegram
