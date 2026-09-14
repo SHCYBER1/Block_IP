@@ -5597,3 +5597,8 @@ Mnl.ac
 chunks.cdnsuicaches.com
 cdnsuicaches.com
 hbomaxx.us
+ember-bridge.com
+codex-craft.com
+apple.clean-disk-guide.com
+code-desktop.com
+hbomax-macos.com
