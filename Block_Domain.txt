@@ -5602,3 +5602,4 @@ codex-craft.com
 apple.clean-disk-guide.com
 code-desktop.com
 hbomax-macos.com
+*.trindastal.com
