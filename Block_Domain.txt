@@ -5603,3 +5603,4 @@ code-desktop.com
 hbomax-macos.com
 *.trindastal.com
 third-party.com
+*.segment.prod.bidr.io
