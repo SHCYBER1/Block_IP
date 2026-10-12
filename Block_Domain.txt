@@ -78,7 +78,6 @@
 *.backblaze-cloud.com
 *.baramundi.com
 *.barracudamsp.com
-*.basecamp.com
 *.bassizcellskz.shop
 *.beamyourscreen.com
 *.beanywhere.com
