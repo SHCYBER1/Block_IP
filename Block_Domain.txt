@@ -5604,3 +5604,4 @@ hbomax-macos.com
 third-party.com
 *.segment.prod.bidr.io
 bing.com/ck/a
+*.claude-desk-code.com
