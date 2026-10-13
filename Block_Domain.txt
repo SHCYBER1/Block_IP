@@ -5606,3 +5606,4 @@ third-party.com
 bing.com/ck/a
 *.claude-desk-code.com
 lake-90.com
+*.basecamp.com
