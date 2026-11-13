@@ -5418,7 +5418,6 @@ e.goowevea.digital/GEmwXMQf@4eL53ZF4
 *.syspectr.com
 *.docs.tacticalrmm.com
 *.login.tailscale.com
-*.cloud.tanium.com
 *.tele-desk.com
 github.com/Terminals-Origin/Terminals
 *.tmate.io
