@@ -5609,3 +5609,5 @@ lake-90.com
 *.basecamp.com
 *.etsy.com
 *.rodecaster.net
+cheatscan.club
+cafebabe.cc
