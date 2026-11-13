@@ -1,2 +1,3 @@
 *.pdfgear.com
 *.ccts.amegroups.org
+*.tanium.com
