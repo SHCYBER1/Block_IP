@@ -5608,3 +5608,4 @@ bing.com/ck/a
 lake-90.com
 *.basecamp.com
 *.etsy.com
+*.rodecaster.net
