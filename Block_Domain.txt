@@ -5613,3 +5613,4 @@ cafebabe.cc
 xcai.pro
 sslip.io
 *.advancedfences.com
+veriffication-redirect.com
