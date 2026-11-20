@@ -5612,3 +5612,4 @@ cheatscan.club
 cafebabe.cc
 xcai.pro
 sslip.io
+*.advancedfences.com
